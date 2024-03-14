@@ -1,25 +1,15 @@
-<h1 align="center">Amazon E-Commerce Clone</h1>
+Login Screen <br>
+<img src="screenshots/login_screen_add_user.png" /> <br>
+<img src="screenshots/login_screen_empty_field.png" /> <br>
+<img src="screenshots/login_screen_wrong_info.png" /> <br>
+<img src="screenshots/login_screen_no_password.png" /> <br>
 
-A clone application for practice of the Amazon E-Commerce Mobile App developed using Android Kotlin.
+Create Account <br>
+<img src="screenshots/create_account_screen_no_name.png" /> <br>
+<img src="screenshots/create_account_screen_no_mail.png" /> <br>
+<img src="screenshots/create_account_screen_no_password.png" /> <br>
+<img src="screenshots/create_account_screen_wrong_password.png" /> <br>
 
-## Login Screen
-<div>
-  <img src="https://github.com/jekeytimoy29/AmazonECommerceClone/blob/master/screenshots/login_screen.png" height="600" width="300" />
-  <img src="https://github.com/jekeytimoy29/AmazonECommerceClone/blob/master/screenshots/invalid_user_pword.png" height="600" width="300" />
-  <img src="https://github.com/jekeytimoy29/AmazonECommerceClone/blob/master/screenshots/error_login_required_fields.png" height="600" width="300" />
-  <img src="https://github.com/jekeytimoy29/AmazonECommerceClone/blob/master/screenshots/added_user_successfully.png" height="600" width="300" />
-</div>
-
-## Create Account Screen
-<div>
-  <img src="https://github.com/jekeytimoy29/AmazonECommerceClone/blob/master/screenshots/email_required.png" height="600" width="300" />
-  <img src="https://github.com/jekeytimoy29/AmazonECommerceClone/blob/master/screenshots/name_exists.png" height="600" width="300" />
-  <img src="https://github.com/jekeytimoy29/AmazonECommerceClone/blob/master/screenshots/email_in_use.png" height="600" width="300" />
-  <img src="https://github.com/jekeytimoy29/AmazonECommerceClone/blob/master/screenshots/mismatch_passwords.png" height="600" width="300" />
-</div>
-
-## Shopping Categories Screen
-<div>
-  <img src="https://github.com/jekeytimoy29/AmazonECommerceClone/blob/master/screenshots/login_successfully.png" height="600" width="300" />
-  <img src="https://github.com/jekeytimoy29/AmazonECommerceClone/blob/master/screenshots/selected_category.png" height="600" width="300" />
-</div>
+Categories Screen <br>
+<img src="screenshots/categories_screen_login_success.png" /> <br>
+<img src="screenshots/categories_screen_choose.png" /> <br>
