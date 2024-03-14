@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BaseHeaderStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/header_background</item>
+    </style>
+
+    <style name="BorderStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">3dp</item>
+        <item name="android:background">@color/border_color</item>
+    </style>
+
+    <style name="FooterBorderStyle" parent="BorderStyle">
+        <item name="android:background">@drawable/gradient_border</item>
+        <item name="android:layout_height">4dp</item>
+    </style>
+
+    <style name="BaseFooterStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/background_color</item>
+    </style>
+
+    <style name="ImageHeaderStyle" parent="BaseHeaderStyle">
+        <item name="android:layout_height">67dp</item>
+    </style>
+
+    <style name="HyperLinkTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:autoLink">web</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="CopyrightTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background color for the checkbox -->
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <!-- Set the background color for the checkbox -->
+            <solid android:color="@color/background_color" />
+            <!-- Optionally, you can add other attributes like corner radius -->
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+    <!-- Check mark -->
+    <item android:id="@android:id/checkbox">
+        <!-- Here you can use a custom drawable for the check mark -->
+        <!-- For example, you can use a vector drawable or shape drawable for the check mark -->
+        <shape android:shape="rectangle">
+            <size android:width="24dp" android:height="24dp" />
+            <solid android:color="@color/primary_color" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!-- gradient_border.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:bottom="2dp"
+        android:top="-2dp">
+        <shape>
+            <gradient
+                android:angle="0"
+                android:centerColor="@color/background_color"
+                android:endColor="@color/header_color"
+                android:startColor="@color/header_color"
+                android:type="linear" />
+        </shape>
+    </item>
+</layer-list>
